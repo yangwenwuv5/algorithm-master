@@ -1,0 +1,3 @@
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/找最多数量/build/CMakeFiles/findmax.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/找最多数量/build/CMakeFiles/edit_cache.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/找最多数量/build/CMakeFiles/rebuild_cache.dir

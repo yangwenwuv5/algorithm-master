@@ -1,0 +1,3 @@
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/重复单词/build/CMakeFiles/duplicate.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/重复单词/build/CMakeFiles/edit_cache.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/重复单词/build/CMakeFiles/rebuild_cache.dir

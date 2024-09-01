@@ -1,0 +1,35 @@
+# Perimeter of squares in a rectangle！
+
+## 題目
+
+- [Training on Perimeter of squares in a rectangle | Codewars](https://www.codewars.com/kata/559a28007caad2ac4e000083/train/java)
+
+  ![image-20211112101842419](https://gitee.com/rokzhughost/cloudimage/raw/master/img/image-20211112101842419.png)
+
+- Title
+
+  The drawing shows 6 squares the sides of which have a length of 1, 1, 2, 3, 5, 8. It's easy to see that the sum of the perimeters of these squares is : `4 * (1 + 1 + 2 + 3 + 5 + 8) = 4 * 20 = 80`
+
+  Could you give the sum of the perimeters of all the squares in a rectangle when there are n + 1 squares disposed in the same manner as in the drawing:
+
+  ![alternative text](http://i.imgur.com/EYcuB1wm.jpg)
+
+  #### Hint:
+
+  See Fibonacci sequence
+
+  #### Ref:
+
+  http://oeis.org/A000045
+
+  The function perimeter has for parameter n where n + 1 is the number of squares (they are numbered from 0 to n) and returns the total perimeter of all the squares.
+
+- Example
+
+  ```
+  perimeter(5)  should return 80
+  perimeter(7)  should return 216
+  ```
+
+## 解题思路
+1. 只需要将前面2个数相加，然后换成大整数运算就行

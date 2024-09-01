@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libanonymousLetter.so -o lib/libanonymousLetter.so CMakeFiles/anonymousLetter.dir/anonymousLetter.cpp.o 

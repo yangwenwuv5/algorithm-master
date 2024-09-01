@@ -1,0 +1,3 @@
+/home/workstation/algorithm/src/com/HuaweiOD/学校选址/build/CMakeFiles/getlocate.dir
+/home/workstation/algorithm/src/com/HuaweiOD/学校选址/build/CMakeFiles/edit_cache.dir
+/home/workstation/algorithm/src/com/HuaweiOD/学校选址/build/CMakeFiles/rebuild_cache.dir

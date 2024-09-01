@@ -1,0 +1,3 @@
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/计算中心值/build/CMakeFiles/midnums.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/计算中心值/build/CMakeFiles/edit_cache.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/计算中心值/build/CMakeFiles/rebuild_cache.dir

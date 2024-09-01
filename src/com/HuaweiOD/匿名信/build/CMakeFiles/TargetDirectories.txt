@@ -1,0 +1,3 @@
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/匿名信/build/CMakeFiles/anonymousLetter.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/匿名信/build/CMakeFiles/edit_cache.dir
+/home/yangww/workstation/algorithm/src/com/HuaweiOD/匿名信/build/CMakeFiles/rebuild_cache.dir
